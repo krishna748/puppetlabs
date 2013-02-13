@@ -1,0 +1,87 @@
+--- 
+  ec2_block_device_mapping_ami: /dev/sda1
+  ec2_kernel_id: aki-825ea7eb
+  domain: compute-1.internal
+  ec2_reservation_id: r-a00e1fdb
+  uptime_seconds: 1482
+  pe_patch_version: "1"
+  fqdn: domU-12-31-39-0F-80-88.compute-1.internal
+  ps: "ps -ef"
+  ec2_ami_launch_index: "0"
+  ec2_instance_type: t1.micro
+  memoryfree: "438.82 MB"
+  is_pe: true
+  ipaddress_lo: "127.0.0.1"
+  timezone: UTC
+  fact_is_puppetmaster: "true"
+  pe_major_version: "2"
+  rubyversion: "1.8.7"
+  kernelmajversion: "3.0"
+  fact_stomp_port: "61613"
+  concat_basedir: /var/opt/lib/pe-puppet/concat
+  rubysitedir: /opt/puppet/lib/ruby/site_ruby/1.8
+  processor0: "Intel(R) Xeon(R) CPU           E5430  @ 2.66GHz"
+  id: root
+  uptime_days: 0
+  kernel: Linux
+  physicalprocessorcount: 1
+  uptime_hours: 0
+  interfaces: "eth0,lo"
+  root_home: /root
+  ipaddress_eth0: "10.193.131.118"
+  virtual: xenu
+  arp_eth0: "fe:ff:ff:ff:ff:ff"
+  ec2_ami_id: ami-ca32efa3
+  architecture: x86_64
+  custom_auth_conf: "false"
+  ec2_security_groups: itx-aab-puppet-poc
+  sshrsakey: "AAAAB3NzaC1yc2EAAAABIwAAAIEA0JNkdfWZYJoNUFl+ZlnKOQO+dAbRJHA2j6yM+cdYdus/+N8Va6m6gNIBbj0afVRVYWpGU/4kmZUdsXVHxJeOtpcvNJxvdvq93wlHD5YcWnAMuKuh6kv7qhR3k3Fi/AEt8xLulLLlMhO9ptnRzlCr+K6NyJe5kEWlYWfhJ3bysX8="
+  ec2_local_ipv4: "10.193.131.118"
+  ec2_instance_id: i-6bd8d91b
+  ec2_local_hostname: domU-12-31-39-0F-80-88.compute-1.internal
+  kernelrelease: "3.0.13-0.27-ec2"
+  netmask_eth0: "255.255.254.0"
+  ec2_placement_availability_zone: us-east-1a
+  network_lo: "127.0.0.0"
+  fact_stomp_server: domu-12-31-39-0f-80-88.compute-1.internal
+  swapsize: "0.00 kB"
+  fact_is_puppetca: "true"
+  pe_version: "2.7.1"
+  network_eth0: "10.193.130.0"
+  ec2_ami_manifest_path: "(unknown)"
+  pe_minor_version: "7"
+  path: "/usr/bin:/bin:/usr/sbin:/sbin:/usr/sbin:/usr/bin:/sbin:/bin"
+  kernelversion: "3.0.13"
+  processorcount: "1"
+  netmask_lo: "255.0.0.0"
+  swapfree: "0.00 kB"
+  fact_is_puppetconsole: "false"
+  operatingsystemrelease: "11.2"
+  netmask: "255.255.254.0"
+  puppet_vardir: /var/opt/lib/pe-puppet
+  hardwaremodel: x86_64
+  operatingsystem: SLES
+  ec2_public_ipv4: "54.234.213.98"
+  uniqueid: c10a7683
+  fact_is_puppetagent: "true"
+  sshdsakey: "AAAAB3NzaC1kc3MAAACBAOeCj7M8IypAgh5VsnU+q3VtmdPYHg+krhDb8FJGA2O0XtTTnMVJx6QgmlgS0MwREKF065q2n8uEzUuWNwj9HjSrVJSd8LHGeX+a93ZAXGOOFZXEJouX+wQ0iOcRJYtJdQEHgoz1W+SjI4A2dQsVqq4TMkhcAOUkNCXvLx7JuwM5AAAAFQCI5mloj0jKk5gNbyx6+is5v3j4BwAAAIBHqTHw1E6/gksiP7S3oJ42/Jn6ARPf8/Fks2YEnJ8fGA1hQjcb/sfRCOzUGN/807QimStDipelbrurS0mfwKE7Yd/9C1gVjuNmYY704uO9T0dV5iLf7huhYquCnuFxBhjoAGtXngA3rulif78csbKpdYJB2YCGSqn1m5oTw4I8gAAAAIEAnELwkW2y1MeqrMySq4p7QSUCW13pCHublUJqLxjR2ezlLAsBVEcEXzgF5S63kxQ4fJjnVwdakuZZgDBAlkoCFVUibFcdxMu6Pzws9koUA41Z3UHGWTH3YybUIBbqWMrp5IE7dN4H/H29gdM1VAbIYzuI7FbvnfQu19MFDxVK+R0="
+  osfamily: Suse
+  macaddress: "12:31:39:0F:80:88"
+  augeasversion: "0.10.0"
+  ec2_block_device_mapping_root: /dev/sda1
+  is_virtual: "true"
+  selinux: "false"
+  memorytotal: "629.79 MB"
+  ec2_hostname: domU-12-31-39-0F-80-88.compute-1.internal
+  arp: "fe:ff:ff:ff:ff:ff"
+  ec2_public_hostname: ec2-54-234-213-98.compute-1.amazonaws.com
+  macaddress_eth0: "12:31:39:0F:80:88"
+  ec2_profile: default-paravirtual
+  memorysize: "629.79 MB"
+  hardwareisa: x86_64
+  hostname: domU-12-31-39-0F-80-88
+  facterversion: "1.6.10"
+  uptime: "0:24 hours"
+  ec2_public_keys_0_openssh_key: "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC4F9RziVDsvjGA1jFH/NixEvA+eX1kxE6lsLRo73mpVlvG1k+vd3nXDRAzyklH02gbcdTpWl/eBHIdJTxdnOz57hsfY1yeH20mhU2YZuUL+V26hv9vFmb57rqGnY+U7Y1cF+ITWDPY9gH8bZE+7V7Mb5cSmfh6TUgFiXpDeRYpU73/cyWY3dlHgx0mGVnZhKry6MM25AdI6KKQu+mWUZ6GS0Vv/8LievZRDX7NvTZkL5pjeQf3ncr9E8qgFPsHEIUZHxS+YLUk240M8QOwDESxCepG06HvXnPnSa7yy1f5M+ADyDbkovhwOCxsqsWOt7sKml2odZe20aIuUVSp6ceJ itx-aab-win-AD-key"
+  ipaddress: "10.193.131.118"
+  puppetversion: "2.7.19 (Puppet Enterprise 2.7.1)"

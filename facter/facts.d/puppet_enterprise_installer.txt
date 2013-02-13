@@ -1,0 +1,6 @@
+fact_stomp_port=61613
+fact_stomp_server=domu-12-31-39-0f-80-88.compute-1.internal
+fact_is_puppetagent=true
+fact_is_puppetmaster=true
+fact_is_puppetca=true
+fact_is_puppetconsole=false

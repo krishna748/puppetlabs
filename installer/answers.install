@@ -1,0 +1,15 @@
+q_install=y
+q_puppet_cloud_install=y
+q_puppet_enterpriseconsole_install=n
+q_puppet_symlinks_install=y
+q_puppetagent_certname=domu-12-31-39-0f-80-88.compute-1.internal
+q_puppetagent_install=y
+q_puppetagent_server=domu-12-31-39-0f-80-88.compute-1.internal
+q_puppetca_install=y
+q_puppetmaster_certname=domu-12-31-39-0f-80-88.compute-1.internal
+q_puppetmaster_dnsaltnames=domu-12-31-39-0f-80-88,domu-12-31-39-0f-80-88.compute-1.internal,puppet,puppet.compute-1.internal
+q_puppetmaster_enterpriseconsole_hostname=localhost
+q_puppetmaster_enterpriseconsole_port=443
+q_puppetmaster_install=y
+q_vendor_packages_install=y
+q_verify_packages=y
